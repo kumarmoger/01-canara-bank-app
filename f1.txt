@@ -1,3 +1,0 @@
-<menu>
-<command type="command" label="Save" onclick="save()">Save</command>
-</menu>
